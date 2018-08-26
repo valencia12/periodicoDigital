@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0.4%;
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 3%;
+}
+a{
+    color: white;
+}
+li:hover{
+    background-color: brown;
+}
+body{
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.info{
+    text-align: justify;
+    color: grey;
+}
+ img{
+     margin-top: 3%;
+     margin-left: 45%;
+ }
+ p.info{
+     margin-top: 2%;
+ }
+
+ a{
+     text-decoration: none;
+ }
+ li{
+     display: inline;
+ }
